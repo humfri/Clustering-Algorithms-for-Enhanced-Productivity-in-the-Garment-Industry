@@ -1,12 +1,12 @@
-**Introduction**
+**Title:** Clustering Algorithms for Enhanced Productivity in the Garment Industry
+
+**Introduction:**
 In the dynamic landscape of garment manufacturing, optimising workforce productivity is pivotal for sustained success.  This project endeavours to unlock patterns and relationships within a comprehensive dataset using advanced clustering techniques.
 By employing K-means and hierarchical clustering, the objective is to discern distinct productivity segments which will empower the formulation of more targeted and effective workforce management strategies, contributing to enhanced operational efficiency in the garment industry.
 
-**Dataset**
-
+**Dataset:**
 The dataset sourced from www.kaggle.com/datasets/ comprises key operational metrics essential for optimising workforce output such as day of the week, quarter of the month, department and team numbers, team size, style changes, targeted and actual productivity, Standard Minute Value (SMV), work in progress (WIP), overtime, incentives, idle time, and the count of idle workers, the dataset provides a multifaceted view of productivity dynamics. Temporal factors such as the day and quarter offer contextual insights, unveiling patterns in productivity.
 Department and team details bring attention to variations across different production lines or segments, while workforce size and style changes impact overall line efficiency. SMV and targeted productivity serve as benchmarks for core performance evaluation. Variables including WIP and overtime shed light on operational hurdles and the extended working hours required for goal to be achieved. Incentives is a crucial motivator, influencing overall productivity.
-
 The dataset further incorporates idle time and the count of idle workers which are crucial for identifying process bottlenecks and inefficiencies. Finally, the actual productivity percentage stands as a critical outcome measure, reflecting the tangible efficiency of the workforce. 
 This dataset forms the cornerstone for a comprehensive analysis of productivity dynamics in the garment manufacturing sector.
 
