@@ -89,3 +89,19 @@ While the current results are promising, it is important to acknowledge that the
 Technology.
 4. Williams, S. (2018). Ergonomics in Apparel Industry: A Study on Worker Efficiency. Journal of Industrial Engineering and
 Management.
+
+
+## Dependencies
+
+- pandas==1.3.3
+- seaborn==0.11.2
+- matplotlib==3.4.3
+- numpy==1.21.2
+- scipy==1.7.1
+- scikit-learn==0.24.2
+- warnings==0.1.0
+
+Install dependencies using:
+
+```bash
+pip install pandas==1.3.3 seaborn==0.11.2 matplotlib==3.4.3 numpy==1.21.2 scipy==1.7.1 scikit-learn==0.24.2 warnings==0.1.0
